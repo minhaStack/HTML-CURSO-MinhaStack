@@ -11,3 +11,5 @@ Seja bem vindo ao repositório oficial do nosso curso de html no YouTube.
  Link para o curso: 
  
  *Em gravação...
+ 
+ ## Acesse nosso site: https://minhastack.com

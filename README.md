@@ -1,15 +1,11 @@
-# MinhaStack 
+# MinhaStack
 
-Seja bem vindo ao repositório oficial do nosso curso de html no YouTube.
+Seja bem vindo ao repositório oficial do nosso <a href="https://www.youtube.com/playlist?list=PLY4ZMXnpISKCeiF5lFwJx8-CrjDJ216x9">curso de html no YouTube.</a>
 
- - Acesse o material Auxiliar nos arquivos desse repositório. 
+- Acesse o material Auxiliar nos arquivos desse repositório.
 
- ### Acesse nosso canal no Youtube:
+### Acesse <a href='https://www.youtube.com/channel/UCcHWdlaVbzVP083WlPnHiWA'>nosso canal no Youtube</a>
 
- https://www.youtube.com/channel/UCcHWdlaVbzVP083WlPnHiWA 
+Link para o curso <a href="https://www.youtube.com/playlist?list=PLY4ZMXnpISKCeiF5lFwJx8-CrjDJ216x9">aqui</a>
 
- Link para o curso: 
- 
- *Em gravação...
- 
- ## Acesse nosso site: https://minhastack.com
+## Acesse nosso <a href='https://minhastack.com'>site.</a>
